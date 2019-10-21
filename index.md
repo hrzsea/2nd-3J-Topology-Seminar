@@ -11,25 +11,25 @@ The seminar will be paperless. All the information about the seminar, including 
 ## <span id="Program">Program</span>  
 
 
-|                             |       Oct. 19, Saturday             |   Oct. 20, Sunday                      |
-| --------------------------- | --------------------------------  | -------------------------------------- |
-|     7:00am - 8:00am         |     [Breakfast](#dining)         |      Breakfast                          |
-|     8:15am - 8:30am         |           Opening                 |                                        |
-|          Chair              |                                   |                                        |
-|            8:30am - 9:20am  |     [**Yang Su**](#Yang Su)       |      [**Jian Liu**](#Jian Liu)         |
-|            9:20am - 9:30am  |          Tea Break                |         Tea Break                      |
-|           9:30am - 10:20am  |               **Yang Su**         |    **[Pengcheng Li](#Pengcheng Li)**   |
-|            10:20am-10:30am  |          Tea Break                |         Tea Break                      |
-|            10:30am-11:20am  | [**Ruizhi Huang**](#Ruizhi Huang) |     [**Zhiguo Zhang**](#张志国)   | 
-|            11:20am-11:30am  |          Tea Break                |                   Tea Break            |
-|            11:30am-12:20am  |          **Ruizhi Huang**         | [**Xiangjun Wang**](#Xiangjun Wang)<sup>1</sup> |
-|                                                                                                          |
-|            12:30pm          |          Lunch                    |        Lunch              |
-|                                                                                                          |
-|              Afternoon      |               **Free discussion**  |            Free discussion/Leave       |
-|                                                                                                          |
-|              6:00pm (TBC)   |             Dinner               |                                        |
-
+|                         |       Dec. 21, Saturday           |   Dec. 22, Sunday                      |
+| ----------------------- | --------------------------------  | -------------------------------------- |
+|       7:00 - 8:45       |      [Breakfast](#dining)         |      Breakfast                         |
+|                                                                                                      |
+|       8:45 - 9:00       |           Opening                 |                                        |
+|         Chair           |                                   |                                        |
+|       9:00 - 09:50      |      [**Jie Wu**](#Jie Wu)        |     [**Huijun Yang**](#Huijun Yang)    |
+|       9:50 - 10:20      |          Tea Break                |         Tea Break                      |
+|       10:20 - 11:10     |               **Jie Wu**          |     [*Sang Xie**](#Pengcheng Li)       |
+|       11:10-11:30       |          Tea Break                |         Tea Break                      |
+|       11:30-12:20       |      [**Yang Su**](#Yang Su)      |     [**Xman**](#Xman)                  | 
+|                                                                                                      |
+|       12:20-14:30       |          Lunch                    |        Lunch                           |
+|                                                                                                      |
+|       14:30-15:20       |         **Yang Su**               |         Free discussion/Leave          |
+|       15:20-            |        **Free discussion**        |         Free discussion/Leave          |
+|                                                                                                      |
+|       18:00             |             Dinner                |                                        |
+  
 1. All talks will take place in ()   
 
 
@@ -41,6 +41,14 @@ The seminar will be paperless. All the information about the seminar, including 
 ## <span id="Talks">Talks</span>    
 
 
+- **<span id="Jie Wu">Jie Wu</span> (HNU)**  
+
+Title:  
+
+Abstract: 
+
+
+
 - **<span id="Yang Su">Yang Su</span> (CAS)**  
 
 Title:  
@@ -48,25 +56,19 @@ Title:
 Abstract: 
 
 
-- **<span id="Ruizhi Huang">Ruizhi Huang</span> (CAS)**  
 
-Title:  
+- **<span id="Huijun Yang">Huijun Yang</span> (HU)**  
+
+Title: 
 
 Abstract: 
+
 
   
 
-- **<span id="Jian Liu">Jian Liu</span> (Nankai)**  
+- **<span id="Sang Xie">Sang Xie</span> (Nankai)**  
 
 Title:  
-
-Abstract: 
-
-
-
-- **<span id="Pengcheng Li">Pengcheng Li</span> (CAS)**  
-
-Title: 
 
 Abstract: 
 
@@ -90,10 +92,6 @@ Abstract:
 2. <span id="dining">Breakfast</span>, Lunch and Dinner are available at 综合楼; 4楼 早午餐，1楼晚餐  
 
 
-([正定乒乓球基地平面示意图](https://raw.githubusercontent.com/hrzsea/1st-3J-Topology-Seminar/master/正定乒乓基地平面示意图.jp2))
-_You may have to use web browser to open the image instead of Wechat!_
-
-![](https://raw.githubusercontent.com/hrzsea/1st-3J-Topology-Seminar/master/正定乒乓基地平面示意图.jp2)    
 
 
 ##  <span id="Reimbursement Information">Reimbursement Information</span>  
