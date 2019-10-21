@@ -19,14 +19,14 @@ The seminar will be paperless. All the information about the seminar, including 
 |         Chair           |                                   |                                        |
 |       9:00 - 09:50      |      [**Jie Wu**](#Jie Wu)        |     [**Huijun Yang**](#Huijun Yang)    |
 |       9:50 - 10:20      |          Tea Break                |         Tea Break                      |
-|       10:20 - 11:10     |               **Jie Wu**          |     [*Sang Xie**](#Pengcheng Li)       |
-|       11:10-11:30       |          Tea Break                |         Tea Break                      |
-|       11:30-12:20       |      [**Yang Su**](#Yang Su)      |     [**Xman**](#Xman)                  | 
+|       10:20 - 11:10     |               **Jie Wu**          |     [**Sang Xie**](#Sang Xie)          |
+|       11:10-11:40       |          Tea Break                |         Tea Break                      |
+|       11:40-12:30       |      [**Yang Su**](#Yang Su)      |     [**Xman**](#Xman)                  | 
 |                                                                                                      |
-|       12:20-14:30       |          Lunch                    |        Lunch                           |
+|       12:30-14:40       |          Lunch                    |        Lunch                           |
 |                                                                                                      |
-|       14:30-15:20       |         **Yang Su**               |         Free discussion/Leave          |
-|       15:20-            |        **Free discussion**        |         Free discussion/Leave          |
+|       14:40-15:30       |         **Yang Su**               |         Free discussion/Leave          |
+|       15:30-            |        **Free discussion**        |                                        |
 |                                                                                                      |
 |       18:00             |             Dinner                |                                        |
   
