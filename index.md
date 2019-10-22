@@ -97,7 +97,7 @@ Abstract:
 
 1.	We have booked ? rooms at (,元) for students, post-docs, assistant and ? professors, and ? rooms at (,元) for professors.
 2.	Since we only booked the exact number of rooms we need, please do NOT go to the wrong hotel.
-3.	You do not need to pay the accommodation fees if you have applied the reimbursement.
+3.	You do not need to pay the accommodation fees if you have applied the financial support from the host.
 4.	<span id="dining">Breakfast</span> is available at ？？
 5.	Lunch at Saturday and Sunday is provided at ？？ 
 6.	Dinner at Saturday is provided at ？
