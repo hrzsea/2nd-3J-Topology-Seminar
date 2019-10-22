@@ -23,10 +23,10 @@ The seminar will be paperless. All the information about the seminar, including 
 |       11:10-11:40       |          Tea Break                |         Tea Break                      |
 |       11:40-12:30       |      [**Ye Liu**](#Ye Liu)        |    [**Sang Xie**](#Sang Xie)           | 
 |                                                                                                      |
-|       12:30-14:40       |          Lunch                    |        Lunch                           |
+|       12:30-14:30       |          Lunch                    |        Lunch                           |
 |                                                                                                      |
-|       14:40-15:30       |         **Ye Liu**               |         Free discussion/Leave          |
-|       15:30-            |        **Free discussion**        |                                        |
+|       14:30-15:20       |         **Ye Liu**               |         Free discussion/Leave          |
+|       15:20-            |        **Free discussion**        |                                        |
 |                                                                                                      |
 |       18:00             |             Dinner                |                                        |
   
