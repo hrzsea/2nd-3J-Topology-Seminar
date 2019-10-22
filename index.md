@@ -88,16 +88,19 @@ Abstract:
 地址：  
 
 乘车路线：  
-
+(If you use Baidu or Gaode map, you do not need this)
  
 
 
 
 ## <span id="Accommodation">Accommodation</span>
 
-1. Registration and accommodation are arranged at ？？, where all the participants will stay.
-
-2. <span id="dining">Breakfast</span>, Lunch and Dinner are available at ？？ 
+1.	We have booked ? rooms at (,元) for students, post-docs, assistant and ? professors, and ? rooms at (,元) for professors.
+2.	Since we only booked the exact number of rooms we need, please do NOT go to the wrong hotel.
+3.	You do not need to pay the accommodation fees if you have applied the reimbursement.
+4.	<span id="dining">Breakfast</span> is available at ？？
+5.	Lunch at Saturday and Sunday is provided at ？？ 
+6.	Dinner at Saturday is provided at ？
 
 
 
@@ -112,5 +115,6 @@ To apply reimbursement from the host, please contact Professor Yang Su (苏阳�
 北京海淀区中关村东路55号    
 中国科学院数学与系统科学研究院 晨兴数学中心  
 苏阳
+
 
 
