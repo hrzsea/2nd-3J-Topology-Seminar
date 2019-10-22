@@ -17,15 +17,15 @@ The seminar will be paperless. All the information about the seminar, including 
 |                                                                                                      |
 |       8:45 - 9:00       |           Opening                 |                                        |
 |         Chair           |                                   |                                        |
-|       9:00 - 09:50      |      [**Jie Wu**](#Jie Wu)        |     [**Huijun Yang**](#Huijun Yang)    |
+|       9:00 - 09:50      |      [**Jie Wu**](#Jie Wu)        |       [**Yang Su**](#Yang Su)          | 
 |       9:50 - 10:20      |          Tea Break                |         Tea Break                      |
-|       10:20 - 11:10     |               **Jie Wu**          |     [**Sang Xie**](#Sang Xie)          |
+|       10:20 - 11:10     |               **Jie Wu**          |    [**Huijun Yang**](#Huijun Yang)     |
 |       11:10-11:40       |          Tea Break                |         Tea Break                      |
-|       11:40-12:30       |      [**Yang Su**](#Yang Su)      |     [**Xman**](#Xman)                  | 
+|       11:40-12:30       |      [**Ye Liu**](#Ye Liu)        |    [**Sang Xie**](#Sang Xie)           | 
 |                                                                                                      |
 |       12:30-14:40       |          Lunch                    |        Lunch                           |
 |                                                                                                      |
-|       14:40-15:30       |         **Yang Su**               |         Free discussion/Leave          |
+|       14:40-15:30       |         **Ye Liu**               |         Free discussion/Leave          |
 |       15:30-            |        **Free discussion**        |                                        |
 |                                                                                                      |
 |       18:00             |             Dinner                |                                        |
@@ -42,6 +42,14 @@ The seminar will be paperless. All the information about the seminar, including 
 
 
 - **<span id="Jie Wu">Jie Wu</span> (HNU)**  
+
+Title:  
+
+Abstract: 
+
+
+
+- **<span id="Ye Liu">Ye Liu</span> (XJTLU)**  
 
 Title:  
 
