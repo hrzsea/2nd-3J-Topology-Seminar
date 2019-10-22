@@ -97,7 +97,7 @@ Abstract:
 
 1. Registration and accommodation are arranged at ？？, where all the participants will stay.
 
-2. <span id="dining">Breakfast</span>, Lunch and Dinner are available at 综合楼; 4楼 早午餐，1楼晚餐  
+2. <span id="dining">Breakfast</span>, Lunch and Dinner are available at ？？ 
 
 
 
