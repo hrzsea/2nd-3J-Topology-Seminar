@@ -43,9 +43,9 @@ The seminar will be paperless. All the information about the seminar, including 
 
 - **<span id="Jie Wu">Jie Wu</span> (HNU)**  
 
-Title:  
+Title: $\mathrm{EHP}$ sequences, exponents of homotopy groups and the Barratt conjecture  
 
-Abstract: 
+Abstract: This is an introductory talk on the Barratt conjecture. The lecture will start from classical $EHP$ sequences. Then we move to talk about some recent research on generalized $EHP$ fibrations as well as some open questions on spherical fibrations over spheres. After showing that the $2$-torsion component of $\pi_*(S^3)$ has an exponent of $4$ as an introductory example, we highlight some classical results on the exponents of homotopy groups. Finally we will talk the Barratt Conjecture, which is a longstanding open problem, as well as the proposed approaches for attacking the conjecture.  
 
 
 
@@ -115,6 +115,7 @@ To apply reimbursement from the host, please contact Professor Yang Su (苏阳�
 北京海淀区中关村东路55号    
 中国科学院数学与系统科学研究院 晨兴数学中心  
 苏阳
+
 
 
 
