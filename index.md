@@ -76,9 +76,12 @@ Abstract:
 
 - **<span id="Sang Xie">Sang Xie</span> (Nankai)**  
 
-Title:  
+Title: SOME NOTES ON REALIZING SPACES AS CLASSIFYING
+SPACES
 
-Abstract: 
+Abstract: The Dold-Lashof classifying space, $Baut_1 (X)$, is the classifying space for fibrations with fibre the homotopy type of $X$. There is a long-standing, open question in rational homotopy theory: 
+Which simply connected rational homotopy types occur as $Baut_1(X)$? In this present, we will show the following unrealization result: 
+The rational homotopy type of $CP^3$ is not realized as the classifying space of any simply connected, π-finite, rational space.
 
 
 
@@ -115,6 +118,7 @@ To apply reimbursement from the host, please contact Professor Yang Su (苏阳�
 北京海淀区中关村东路55号    
 中国科学院数学与系统科学研究院 晨兴数学中心  
 苏阳
+
 
 
 
