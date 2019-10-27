@@ -51,9 +51,9 @@ Abstract: This is an introductory talk on the Barratt conjecture. The lecture wi
 
 - **<span id="Ye Liu">Ye Liu</span> (XJTLU)**  
 
-Title:  
+Title: Topics on hyperplane arrangements
 
-Abstract: 
+Abstract: In these talks, we survey the theory of hyperplane arrangements and its variants. Our goal is to give an introduction to some open problems in this field, especially those related to topology.
 
 
 
@@ -118,6 +118,7 @@ To apply reimbursement from the host, please contact Professor Yang Su (苏阳�
 北京海淀区中关村东路55号    
 中国科学院数学与系统科学研究院 晨兴数学中心  
 苏阳
+
 
 
 
