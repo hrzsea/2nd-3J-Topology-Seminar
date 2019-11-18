@@ -1,6 +1,6 @@
-# Welcome to the 2st 3J Topology Seminar  
+# Welcome to the 2nd 3J Topology Seminar  
 
-The 2st 3J Topology Seminar will hold at [北京中科院数学与系统科学研究院](http://www.amss.ac.cn) from Dec. 21-22, 2019 (the 3rd weekend of December), hosted by AMSS (数学与系统科学研究院).
+The 2nd 3J Topology Seminar will hold at [北京中科院数学与系统科学研究院](http://www.amss.ac.cn) from Dec. 21-22, 2019 (the 3rd weekend of December), hosted by AMSS (数学与系统科学研究院).
 
 The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), [Accommodation and Dining arrangement](#Accommodation), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
 
@@ -59,9 +59,9 @@ Abstract: In these talks, we survey the theory of hyperplane arrangements and it
 
 - **<span id="Yang Su">Yang Su</span> (CAS)**  
 
-Title:  
+Title: Finiteness and infiniteness of the Torelli groups of (hyper)-Kahler manifolds (2)  
 
-Abstract: 
+Abstract: The Torelli group of a closed smooth manifold X is the subgroup of the mapping class group consisting of elements which act trivially on the integral cohomology of X. In this note we give counterexamples to a theorem by Verbitsky which states that the Torelli group of simply connected Kahler manifolds of complex dimension >2 is finite. We also give a counterexample to the theorem of Verbitsky which claims that the Torelli group of hyper-Kahler manifolds are finite. Finally we confirm the finiteness result for the special case of the hyper-Kahler manifold K[2]. This is a joint work with M.Kreck.
 
 
 
@@ -98,9 +98,8 @@ The rational homotopy type of $CP^3$ is not realized as the classifying space of
 
 ## <span id="Accommodation">Accommodation</span>
 
-1.	We have booked ? rooms at (,元) for students, post-docs, assistant and ? professors, and ? rooms at (,元) for professors.
-2.	Since we only booked the exact number of rooms we need, please do NOT go to the wrong hotel.
-3.	You do not need to pay the accommodation fees if you have applied the financial support from the host.
+1.	我们已经为所有注册参会者预定了住宿；老师们都统一安排在**辽宁大厦**；学生们都统一安排在**物科宾馆**，两人一间。
+2.	You do not need to pay the accommodation fees if you have applied the financial support from the host.
 4.	<span id="dining">Breakfast</span> is available at ？？
 5.	Lunch at Saturday and Sunday is provided at ？？ 
 6.	Dinner at Saturday is provided at ？
@@ -118,6 +117,7 @@ To apply reimbursement from the host, please contact Professor Yang Su (苏阳�
 北京海淀区中关村东路55号    
 中国科学院数学与系统科学研究院 晨兴数学中心  
 苏阳
+
 
 
 
