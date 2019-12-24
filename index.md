@@ -1,36 +1,40 @@
 # Welcome to the 2nd 3J Topology Seminar  
 
-The 2nd 3J Topology Seminar will hold at [北京中科院数学与系统科学研究院](http://www.amss.ac.cn) from Dec. 21-22, 2019 (the 3rd weekend of December), hosted by AMSS (数学与系统科学研究院).
+The 2nd 3J Topology Seminar will hold at [北京中科院数学与系统科学研究院](http://www.amss.ac.cn) from Dec. 20-22, 2019 (the 3rd weekend of December), hosted by AMSS (数学与系统科学研究院).
 
 The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), [Accommodation and Dining arrangement](#Accommodation), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
 
 ### Message Board
-``
+`- 12月18日： 活动信息已经完整更新了，诸位周末见！`
 
 
 ## <span id="Program">Program</span>  
 
+### (Homotopy theory and its applications）
 
-|                         |       Dec. 21, Saturday           |   Dec. 22, Sunday                      |
-| ----------------------- | --------------------------------  | -------------------------------------- |
-|       7:00 - 8:45       |      [Breakfast](#dining)         |      Breakfast                         |
-|                                                                                                      |
-|       8:45 - 9:00       |           Opening                 |                                        |
-|         Chair           |                                   |                                        |
-|       9:00 - 09:50      |      [**Jie Wu**](#Jie Wu)        |       [**Yang Su**](#Yang Su)          | 
-|       9:50 - 10:20      |          Tea Break                |         Tea Break                      |
-|       10:20 - 11:10     |               **Jie Wu**          |    [**Huijun Yang**](#Huijun Yang)     |
-|       11:10-11:40       |          Tea Break                |         Tea Break                      |
-|       11:40-12:30       |      [**Ye Liu**](#Ye Liu)        |    [**Sang Xie**](#Sang Xie)           | 
-|                                                                                                      |
-|       12:30-14:30       |          Lunch                    |        Lunch                           |
-|                                                                                                      |
-|       14:30-15:20       |         **Ye Liu**               |         Free discussion/Leave          |
-|       15:20-            |        **Free discussion**        |                                        |
-|                                                                                                      |
-|       18:00             |             Dinner                |                                        |
+
+|                         |   Dec. 20, Friday         |        Dec. 21, Saturday          |   Dec. 22, Sunday                      |
+| ----------------------- |                           | --------------------------------  | -------------------------------------- |
+|       7:00 - 8:45       |                           |        Breakfast                  |      Breakfast                         |
+|                                                                                                                                  |
+|       8:45 - 9:00       |                           |           Opening                 |                                        |
+|         Chair           |                           |                                   |                                        |
+|       9:00 - 09:50      |                           |      [**Jie Wu**](#Jie Wu)        |       [**Yang Su**](#Yang Su)          | 
+|       9:50 - 10:20      |                           |          Tea Break                |         Tea Break                      |
+|       10:20 - 11:10     |Full-day Registration      |               **Jie Wu**          |    [**Huijun Yang**](#Huijun Yang)     |
+|       11:10-11:40       |                           |          Tea Break                |         Tea Break                      |
+|       11:40-12:30       |                           |      [**Ye Liu**](#Ye Liu)        |    [**Sang Xie**](#Sang Xie)           | 
+|                                                                                                                                  |
+|       12:30-14:30       |                           |      [Lunch](#dining)             |        Lunch                           |
+|                                                                                                                                 |
+|       14:30-15:20       |                           |         **Ye Liu**               |         Free discussion/Leave          |
+|       15:20-15:40       |  Full-day Free discussion |            Tea Break             |                                        |
+|       15:40-16:10       |                           |      [**Yubo Liu**](#Yubo Liu)   |                                        |
+|       16:10-            |                           |        **Free discussion**       |                                        |
+|                                                                                        |
+|       18:00             |      Dinner               |             Dinner                |                                        |
   
-1. All talks will take place in ()   
+1. All talks will take place in (数学院南楼N219；从正门坐电梯至2楼，出来左手前方多媒体教室即是)   
 
 
 
@@ -56,6 +60,13 @@ Title: Topics on hyperplane arrangements
 Abstract: In these talks, we survey the theory of hyperplane arrangements and its variants. Our goal is to give an introduction to some open problems in this field, especially those related to topology.
 
 
+- **<span id="Yubo Liu">Yubo Liu</span> (CAS)**  
+
+Title: On the Covering Type
+
+Abstract: The covering type of a space X is a numerical homotopy invariant, which in some sense measures the homotopical size of X. In this talk，I'll give a brief introduction of covering type.
+
+
 
 - **<span id="Yang Su">Yang Su</span> (CAS)**  
 
@@ -67,9 +78,11 @@ Abstract: The Torelli group of a closed smooth manifold X is the subgroup of the
 
 - **<span id="Huijun Yang">Huijun Yang</span> (HU)**  
 
-Title: 
+Title: Existence of contact structures on 9-manifolds
 
-Abstract: 
+Abstract: In this talk, the necessary and sufficient conditions for a closed orientable 9-manifold to admit a contact structure will be given.
+In addition, seems to be of independent interest, we will prove that the 7-th integral Stiefel-Whitney class of a 9-dimensional spinc manifold is zero. This is a joint work with Diarmuid Crowley.
+
 
 
   
@@ -88,11 +101,13 @@ The rational homotopy type of $CP^3$ is not realized as the classifying space of
 
 ## <span id="Travel Information">Travel Information</span>
 
-地址：  
+地址: 中国科学院数学与系统科学研究院南楼  
+     北京市海淀区中关村东路55号  
+     100190
 
-乘车路线：  
+乘车路线：[这个家伙很懒，什么都没有留下！](https://raw.githubusercontent.com/hrzsea/2st-3J-Topology-Seminar/master/the%20paths.jp2) 
 (If you use Baidu or Gaode map, you do not need this)
- 
+![](https://raw.githubusercontent.com/hrzsea/2st-3J-Topology-Seminar/master/the%20paths.jp2) 
 
 
 
@@ -100,9 +115,9 @@ The rational homotopy type of $CP^3$ is not realized as the classifying space of
 
 1.	我们已经为所有注册参会者预定了住宿；老师们都统一安排在**辽宁大厦**；学生们都统一安排在**物科宾馆**，两人一间。
 2.	You do not need to pay the accommodation fees if you have applied the financial support from the host.
-4.	<span id="dining">Breakfast</span> is available at ？？
-5.	Lunch at Saturday and Sunday is provided at ？？ 
-6.	Dinner at Saturday is provided at ？
+4.	<span id="dining">Lunch</span> at Saturday and Sunday are provided at 物科4楼（自助餐）
+5.	Dinner at Friday and Saturday is provided at 物科3楼（桌餐）
+
 
 
 
@@ -117,6 +132,7 @@ To apply reimbursement from the host, please contact Professor Yang Su (苏阳�
 北京海淀区中关村东路55号    
 中国科学院数学与系统科学研究院 晨兴数学中心  
 苏阳
+
 
 
 
