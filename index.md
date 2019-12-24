@@ -105,9 +105,9 @@ The rational homotopy type of $CP^3$ is not realized as the classifying space of
      北京市海淀区中关村东路55号  
      100190
 
-乘车路线：[这个家伙很懒，什么都没有留下！](https://raw.githubusercontent.com/hrzsea/2st-3J-Topology-Seminar/master/the%20paths.jp2) 
+乘车路线：[这个家伙很懒，什么都没有留下！](the paths.jp2) 
 (If you use Baidu or Gaode map, you do not need this)
-![](https://raw.githubusercontent.com/hrzsea/2st-3J-Topology-Seminar/master/the%20paths.jp2) 
+![](the paths.jp2) 
 
 
 
