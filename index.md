@@ -45,7 +45,7 @@ The seminar will be paperless. All the information about the seminar, including 
 ## <span id="Talks">Talks</span>    
 
 
-- **<span id="Jie Wu">Jie Wu</span> (HNU)**  
+- **<span id="Jie Wu">Jie Wu</span> (HNU)**  [Slides](3J-Topology-Seminar-talk(1).pdf)
 
 Title: $\mathrm{EHP}$ sequences, exponents of homotopy groups and the Barratt conjecture  
 
@@ -53,7 +53,7 @@ Abstract: This is an introductory talk on the Barratt conjecture. The lecture wi
 
 
 
-- **<span id="Ye Liu">Ye Liu</span> (XJTLU)**  
+- **<span id="Ye Liu">Ye Liu</span> (XJTLU)**  [Summary](yeliuarransurvey.pdf)
 
 Title: Topics on hyperplane arrangements
 
