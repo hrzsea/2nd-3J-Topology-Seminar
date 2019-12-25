@@ -1,6 +1,6 @@
 # Welcome to the 2nd 3J Topology Seminar  
 
-The 2nd 3J Topology Seminar will hold at [北京中科院数学与系统科学研究院](http://www.amss.ac.cn) from Dec. 20-22, 2019 (the 3rd weekend of December), hosted by AMSS (数学与系统科学研究院).
+The 2nd 3J Topology Seminar will be held at [北京中科院数学与系统科学研究院](http://www.amss.ac.cn) from Dec. 20-22, 2019 (the 3rd weekend of December), hosted by AMSS (数学与系统科学研究院).
 
 The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), [Accommodation and Dining arrangement](#Accommodation), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
 
